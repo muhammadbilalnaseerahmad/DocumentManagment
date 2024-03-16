@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "S2OcAxdsKDP0vdaP6YgTE6+AgV0NmBIlo/gdMPof+c8=",
+  "Source": "DocumentManagmentSystem",
+  "BasePath": "_content/DocumentManagmentSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DocumentManagmentSystem\\wwwroot",
+      "Source": "DocumentManagmentSystem",
+      "ContentRoot": "D:\\My Projects\\DocumentManagmentSystem\\DocumentManagmentSystem\\wwwroot\\",
+      "BasePath": "_content/DocumentManagmentSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

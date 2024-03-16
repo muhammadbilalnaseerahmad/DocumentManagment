@@ -1,0 +1,14 @@
+D:\My Projects\DocumentManagmentSystem\DMS.Domain\bin\Debug\net6.0\DMS.Domain.deps.json
+D:\My Projects\DocumentManagmentSystem\DMS.Domain\bin\Debug\net6.0\DMS.Domain.runtimeconfig.json
+D:\My Projects\DocumentManagmentSystem\DMS.Domain\bin\Debug\net6.0\DMS.Domain.dll
+D:\My Projects\DocumentManagmentSystem\DMS.Domain\bin\Debug\net6.0\DMS.Domain.pdb
+D:\My Projects\DocumentManagmentSystem\DMS.Domain\obj\Debug\net6.0\DMS.Domain.csproj.AssemblyReference.cache
+D:\My Projects\DocumentManagmentSystem\DMS.Domain\obj\Debug\net6.0\DMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\DocumentManagmentSystem\DMS.Domain\obj\Debug\net6.0\DMS.Domain.AssemblyInfoInputs.cache
+D:\My Projects\DocumentManagmentSystem\DMS.Domain\obj\Debug\net6.0\DMS.Domain.AssemblyInfo.cs
+D:\My Projects\DocumentManagmentSystem\DMS.Domain\obj\Debug\net6.0\DMS.Domain.csproj.CoreCompileInputs.cache
+D:\My Projects\DocumentManagmentSystem\DMS.Domain\obj\Debug\net6.0\DMS.Domain.dll
+D:\My Projects\DocumentManagmentSystem\DMS.Domain\obj\Debug\net6.0\refint\DMS.Domain.dll
+D:\My Projects\DocumentManagmentSystem\DMS.Domain\obj\Debug\net6.0\DMS.Domain.pdb
+D:\My Projects\DocumentManagmentSystem\DMS.Domain\obj\Debug\net6.0\DMS.Domain.genruntimeconfig.cache
+D:\My Projects\DocumentManagmentSystem\DMS.Domain\obj\Debug\net6.0\ref\DMS.Domain.dll

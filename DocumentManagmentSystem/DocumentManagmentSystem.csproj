@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Uploads\08e50cec-fa6a-4b05-adcc-3f941bb61dac_Black and Green Simple Online Shop Website Logo %284%29.png" />
+    <Content Include="Uploads\4b6c4c1c-25d2-4f09-97fb-e18b0f4a954a_Black and Green Simple Online Shop Website Logo %284%29.png" />
+    <Content Include="Uploads\5c661514-81e4-496f-a59a-f81f770dc61a_Black and Green Simple Online Shop Website Logo %284%29 %282%29.png" />
+    <Content Include="Uploads\66c9d6be-91ef-48de-8659-395213c0468a_orange purple minimalist happy shop logo %282%29.png" />
+    <Content Include="Uploads\98212165-473d-4ff2-b838-5ffa03028eb0_my learner liscence.pdf" />
+    <Content Include="Uploads\Black and Green Simple Online Shop Website Logo %283%29.png" />
+    <Content Include="Uploads\d521528f-90d1-4cea-9702-70dd881f8397_1610460819484.png" />
+    <Content Include="Uploads\df79e4ac-fe01-454b-a161-93c856204b68_Black and Green Simple Online Shop Website Logo %284%29 %282%29.png" />
+    <Content Include="Uploads\df9211b8-5cc3-4282-a900-fc6fa3ca45e9_lloyd-dirks-0vsk2_9dkqo-unsplash.jpg" />
+    <Content Include="Uploads\rc4b44pu.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Hosting.Abstractions" Version="2.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DMS.Application\DMS.Application.csproj" />
+    <ProjectReference Include="..\DMS.Infrastructure\DMS.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Uploads\" />
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+</Project>

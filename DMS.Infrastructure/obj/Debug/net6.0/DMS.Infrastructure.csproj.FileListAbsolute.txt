@@ -1,0 +1,17 @@
+D:\My Projects\DocumentManagmentSystem\DMS.Infrastructure\bin\Debug\net6.0\DMS.Infrastructure.deps.json
+D:\My Projects\DocumentManagmentSystem\DMS.Infrastructure\bin\Debug\net6.0\DMS.Infrastructure.runtimeconfig.json
+D:\My Projects\DocumentManagmentSystem\DMS.Infrastructure\bin\Debug\net6.0\DMS.Infrastructure.dll
+D:\My Projects\DocumentManagmentSystem\DMS.Infrastructure\bin\Debug\net6.0\DMS.Infrastructure.pdb
+D:\My Projects\DocumentManagmentSystem\DMS.Infrastructure\bin\Debug\net6.0\DMS.Domain.dll
+D:\My Projects\DocumentManagmentSystem\DMS.Infrastructure\bin\Debug\net6.0\DMS.Domain.pdb
+D:\My Projects\DocumentManagmentSystem\DMS.Infrastructure\obj\Debug\net6.0\DMS.Infrastructure.csproj.AssemblyReference.cache
+D:\My Projects\DocumentManagmentSystem\DMS.Infrastructure\obj\Debug\net6.0\DMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\DocumentManagmentSystem\DMS.Infrastructure\obj\Debug\net6.0\DMS.Infrastructure.AssemblyInfoInputs.cache
+D:\My Projects\DocumentManagmentSystem\DMS.Infrastructure\obj\Debug\net6.0\DMS.Infrastructure.AssemblyInfo.cs
+D:\My Projects\DocumentManagmentSystem\DMS.Infrastructure\obj\Debug\net6.0\DMS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\My Projects\DocumentManagmentSystem\DMS.Infrastructure\obj\Debug\net6.0\DMS.Infrastructure.csproj.CopyComplete
+D:\My Projects\DocumentManagmentSystem\DMS.Infrastructure\obj\Debug\net6.0\DMS.Infrastructure.dll
+D:\My Projects\DocumentManagmentSystem\DMS.Infrastructure\obj\Debug\net6.0\refint\DMS.Infrastructure.dll
+D:\My Projects\DocumentManagmentSystem\DMS.Infrastructure\obj\Debug\net6.0\DMS.Infrastructure.pdb
+D:\My Projects\DocumentManagmentSystem\DMS.Infrastructure\obj\Debug\net6.0\DMS.Infrastructure.genruntimeconfig.cache
+D:\My Projects\DocumentManagmentSystem\DMS.Infrastructure\obj\Debug\net6.0\ref\DMS.Infrastructure.dll
